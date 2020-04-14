@@ -1,0 +1,19 @@
+{
+  "name": "hello-js-action-alien-97",
+  "version": "1.0.0",
+  "description": "This repo gonna contain hello world javascript action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-1920/hello-js-action-Alien-97.git"
+  },
+  "author": "Alien Embarec Riadi <alu0101035406@ull.edu.es> (https://github.com/Alien-97)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-Alien-97/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-Alien-97#readme"
+}
