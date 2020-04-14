@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-Alien-97/issues"
   },
-  "homepage": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-Alien-97#readme"
+  "homepage": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-Alien-97#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1"
+  }
 }
